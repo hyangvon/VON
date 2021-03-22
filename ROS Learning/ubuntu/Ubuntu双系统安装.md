@@ -1,5 +1,5 @@
 # Ubuntu双系统安装
-由于虚拟机装ubuntu会遇到无法安装cuda的问题，所以索性放弃虚拟机，直接装了双系统。
+由于虚拟机装ubuntu会遇到无法安装cuda的问题，所以索性放弃虚拟机，直接装了双系统。1
 
 转载自[Windows10安装ubuntu16.04双系统教程](https://www.cnblogs.com/masbay/p/10745170.html)（aubo驱动是为ubuntu16开发的，不过ubuntu16和18的安装没有区别，教程同样适用）：
 ## 一、查看电脑的信息
